@@ -27,3 +27,12 @@
     justify-content: center;
     align-items: center;
 }
+
+.second-dice{
+    display: flex;
+    justify-content: space-between;
+}
+
+.downRight{
+    align-self:flex-end;
+}
